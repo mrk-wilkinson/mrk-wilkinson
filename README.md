@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**mrk-wilkinson/mrk-wilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a current student and aspiring cybersecurity professional.
+My main tech interests:
+- Digital forensics
+- Malware analysis
+- Adversary emulation
 
-Here are some ideas to get you started:
+Outside of the tech world:
+- Martial arts
+- Stationary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+Email: mrk-wilkinson@protonmail.com
+Website: markwilkinson.tech
+Mastodon: https://infosec.exchange/@markwilk
+Linkedin: https://www.linkedin.com/in/mark-wilkinson-6398a7312/
+
+
