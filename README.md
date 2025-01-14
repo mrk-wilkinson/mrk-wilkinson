@@ -11,9 +11,9 @@ Outside of the tech world:
 - Stationary
 
 How to reach me:
-Email: mrk-wilkinson@protonmail.com
-Website: markwilkinson.tech
-Mastodon: https://infosec.exchange/@markwilk
-Linkedin: https://www.linkedin.com/in/mark-wilkinson-6398a7312/
+- Email: mrk-wilkinson@protonmail.com
+- Website: markwilkinson.tech
+- Mastodon: https://infosec.exchange/@markwilk
+- Linkedin: https://www.linkedin.com/in/mark-wilkinson-6398a7312/
 
 
